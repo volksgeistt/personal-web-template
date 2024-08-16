@@ -24,23 +24,23 @@ This project is an interactive portfolio card with a sleek, space-themed design.
 - **Social Links**: Update the `href` attributes of the social media links with your own profiles.
 # Changing Colors
 To change the color scheme, modify the following CSS variables in the `styles.css` file:
-```css
+``css
 :root {
     --primary-color: #9b59b6;
     --background-color: #1a1a2e;
     --card-background: rgba(22, 33, 62, 0.8);
     --text-color: #ffffff;
-}```
+}``
 
 ### Customizing Projects
 In the `script.js` file, locate the `projects` array and modify it to include your own projects:
-```js
+``js
 const projects = [
     'Your Project 1',
     'Your Project 2',
     'Your Project 3',
     'Your Project 4'
-];```
+];``
 
 # Credits
 - [@volksgeistt](https://volksgeistt.tech)
